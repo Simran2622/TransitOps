@@ -1,0 +1,5 @@
+﻿ trips_without_matching_route 
+------------------------------
+                            0
+(1 row)
+

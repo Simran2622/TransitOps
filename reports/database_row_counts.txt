@@ -1,0 +1,8 @@
+﻿ table_name | total_rows 
+------------+------------
+ routes     |       2403
+ stops      |      10559
+ trips      |      89393
+ stop_times |    3724320
+(4 rows)
+
